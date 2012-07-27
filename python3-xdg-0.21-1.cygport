@@ -1,0 +1,9 @@
+ORIG_PN="pyxdg"
+inherit python3-distutils
+
+CATEGORY="Python"
+SUMMARY="Py3K implementation of freedesktop.org standards"
+DESCRIPTION="PyXDG is a python library to access freedesktop.org standards.
+Currently supported are: Base Directory, Menu, Desktop Entry, Icon Theme,
+Recent File, and Shared-MIME-Database Specifications."
+HOMEPAGE="http://freedesktop.org/wiki/Software/pyxdg"
