@@ -2,7 +2,7 @@ ORIG_PN="pyxdg"
 inherit python3-distutils
 
 NAME="python3-xdg"
-VERSION=0.24
+VERSION=0.25
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Py3K implementation of freedesktop.org standards"
