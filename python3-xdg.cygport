@@ -1,9 +1,10 @@
+
 ORIG_PN="pyxdg"
 inherit python3-distutils
 
 NAME="python3-xdg"
 VERSION=0.25
-RELEASE=4
+RELEASE=5
 CATEGORY="Python"
 SUMMARY="Py3K implementation of freedesktop.org standards"
 DESCRIPTION="PyXDG is a python library to access freedesktop.org standards.
